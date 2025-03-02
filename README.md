@@ -1,1 +1,0 @@
-# veri-taban-y-netim-sistemleri
