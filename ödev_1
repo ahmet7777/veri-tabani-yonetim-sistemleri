@@ -1,0 +1,77 @@
+1.soru: 
+ÖğrenciID   Ad	  Soyad	    DoğumTarihi	   Cinsiyet	Sınıf
+1	  Ahmet	  Yılmaz    2005-06-15	    Erkek	10A
+2	  Elif	  Demir	    2006-09-23	    Kadın	9B
+3	  Mehmet  Çelik	    2005-04-05	    Erkek	10A
+4	  Ayşe	  Şahin	    2006-12-11	    Kadın	9B
+5	  Can	  Yıldırım  2005-01-20	    Erkek	10A
+
+ÖğrenciID: Bu sütun, her öğrenci için benzersiz bir kimlik numarasını temsil eder.
+
+Ad: Öğrencinin adı.
+
+Soyad: Öğrencinin soyadı.
+
+DoğumTarihi: Öğrencinin doğum tarihi, yyyy-aa-gg formatında.
+
+Cinsiyet: Öğrencinin cinsiyeti (Erkek veya Kadın).
+
+Sınıf: Öğrencinin kayıtlı olduğu sınıf.
+
+Bu örnek, bir okul yönetim sisteminde öğrenci bilgilerini saklamak için kullanılabilecek basit bir veri tabanı tablosunu göstermektedir. Veritabanı tabloları, verileri düzenli ve erişilebilir bir şekilde saklamak için kullanılır.
+
+2.soru: Her iki sistem de verileri saklamak, verilerin düzenlenmesi ve verilerin korunması için kullanılır. farkları ise yapı, erişim hızı,
+veri bütünlülüğü, sorgulama ve analiz, çok kullanıcılı erişim ve yedekleme ve kurtarmadır.
+
+3.soru: Geleneksel sisteme göre verimlilik ve hız, veri bütünlülüğü, çoklu kullanıcı desteği, gelişmiş güvenlik özellikleri, kolay yedekleme ve kurtarma, gelişmiş sorgulama ve analiz, veri ilişkilendirme ve entegrasyon ve son olarak genişletile bilirlik.
+
+4.soru: veri tabanının görevi, verileri sistematik bir şekilde saklamak, yönetmek ve erişilebilir kılmaktır. işletmeler ve kuruluşlar, sağlık sektörü, eğitim kurumları, e-ticaret vs. gibi alanlarda kullanılır.
+
+5.soru:
+tablo; verilerin düzenli bir şekilde saklandığı yapıdır. tablo, satır ve sütunlardan oluşur.
+satır; Tablo içerisindeki her bir kayıt veya veri satır olarak adlandırılır. Her satır, tabloya eklenen bir veri kümesini temsil eder.
+sütün; Tablo içinde verilerin kategorilere ayrılmasını sağlayan dikey bölmelerdir. Her sütun belirli bir veri türünü temsil eder ve genellikle başlıkla adlandırılır.
+
+6.soru: Birincil anahtarlar, veri tabanı içindeki tablolarda veri bütünlüğünü sağlar ve verilerin doğru ve hızlı bir şekilde erişilmesini mümkün kılar. Yabancı anahtar, bir tablodaki bir sütunun başka bir tabloda bulunan birincil anahtarla ilişkilendirildiği bir sütundur. amaç, benzersizlik, tanımlayıcı rol, kullanım yeri gibi farkları vardır.
+
+7.soru: yönetici, tasarımcı, uygulama geliştirici, son kullanıcı, veri analisti, güvenlik yöneticisi gibi kullanıcı türleri vardır
+
+8.soru: 
+                                  Veritabanı             
+                        
+                                        |
+                   +-------------------------------------------+
+                   |                                           |
+       
+           Veritabanı Yöneticisi                  Veritabanı Tasarımcısı    
+       
+              Tüm işlemler                        Şema ve yapı değişiklikleri
+       
+                   |                                           |
+       
+           Uygulama Geliştirici                     Güvenlik Yöneticisi    
+       
+         Veri ekleme, güncelleme,                  Kullanıcı yetkilendirme,  
+         silme, sorgulama                              erişim kontrolü           
+       
+                   |
+       
+              Veri Analisti        
+       
+        Veri sorgulama, analiz     
+       
+                   |
+       
+              Son Kullanıcı       
+       
+        Veri ekleme, sorgulama     
+       
+9.soru: veritabanı, verilerin saklandığı yapıdır. VTYS ise Veritabanlarını yönetmek için kullanılan yazılım sistemi.
+
+10.soru: İlişkisel veri modeli, veritabanı tasarımında yaygın olarak kullanılan ve verilerin düzenli, tutarlı ve kolay erişilebilir olmasını sağlayan güçlü bir modeldir.
+
+11.soru: öğrenci bilgi tablosunda öğrenci numarası, ad, soyad, doğum tarihi, adres bulunur.
+dersler tablosunda; ders kodu, ders adı, ve kredi bilgisi bulunur.
+kayıt tablosunda kayıt numarası, öğrenci numarası, ders kodu, not ve yarıyıl bilgisi bulunur. 
+
+
